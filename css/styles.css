@@ -41,7 +41,7 @@ body {
 .main {
     background-image: url(../img/main/artistic/7a88adcbd91626c2283cb1aee5d015e9.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: local;
     background-size: cover;
 }
 
